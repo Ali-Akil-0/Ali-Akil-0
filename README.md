@@ -22,15 +22,3 @@
   </ul>
   <hr/>
   <br>
-  You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Akil7Ali
-[2]: https://www.linkedin.com/in/akilali-/
-</div>
