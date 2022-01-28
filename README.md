@@ -1,11 +1,11 @@
 <h3> Hi there 👋 </h3>
 <br/>
-<h1>I'm Ali</h1>
+<h1>I'm Ali Akil</h1>
 <br/>
 <div>
   <ul>
     <li>
-      <p>
+      <p style="font-size:10px;">
  🔭 I’m currently a Fiverr part-time freelancer
       </p>
      </li>
