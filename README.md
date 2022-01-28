@@ -1,6 +1,7 @@
-### Hi there 👋
+<h3> Hi there 👋 </h3>
 <br/>
 <h1>I'm Ali</h1>
+<br/>
 <div>
   <ul>
     <li>
