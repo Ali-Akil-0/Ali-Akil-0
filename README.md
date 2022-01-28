@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="background-image: linear-gradient(red, yellow);">
+<div>
   <ul>
     <li>
       <p>
@@ -19,7 +19,7 @@
      <li>
        <p>
  📫 How to reach me: https://www.linkedin.com/in/akilali-/
-               </p>
+       </p>
      </li>
   </ul>
 </div>
