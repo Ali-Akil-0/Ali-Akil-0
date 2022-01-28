@@ -1,9 +1,11 @@
 ### Hi there 👋
+<br/>
+### I'm Ali
 <div>
   <ul>
     <li>
       <p>
- 🔭 I’m currently working on Fiverr
+ 🔭 I’m currently a Fiverr part-time freelancer
       </p>
      </li>
      <li>
