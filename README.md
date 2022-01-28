@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li>
-      <p style="font-size:10px;">
+      <p>
  🔭 I’m currently a Fiverr part-time freelancer
       </p>
      </li>
