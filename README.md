@@ -3,10 +3,6 @@
 <img  src="https://user-images.githubusercontent.com/71938087/158254422-90d114b9-2857-4a97-ac0c-2d3c80216a28.jpg" alt='testingImage'/>
 <br/>
 
-![Expressjs (1)](https://user-images.githubusercontent.com/71938087/158257260-50a208f6-b843-4520-a89f-06b6a6baefa4.png)
-
-
-
 <h2>Hi there !!</h2> <span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3></span>
 
 <h1>I'm Ali </h1>
