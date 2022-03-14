@@ -1,6 +1,8 @@
 ### Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
 <br/>
-<img  src="https://www.canva.com/design/DAE68tqIrbc/NoQpEWXG65soEhyufyT8kA/view" alt='testingImage'/>
+![AKil ALi Cover](https://user-images.githubusercontent.com/71938087/158254422-90d114b9-2857-4a97-ac0c-2d3c80216a28.jpg)
+
+<img  src=[AKil ALi Cover] alt='testingImage'/>
 <h1>I'm Ali Akil</h1>
 <br/>
 <div>
