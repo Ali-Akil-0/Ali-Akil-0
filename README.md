@@ -23,15 +23,31 @@ In building JavaScript applications, I'm equipped with just the right tools, and
 
 
 Here are a few technologies I’ve been working with recently:
-  
-<img src="(https://user-images.githubusercontent.com/71938087/158257260-50a208f6-b843-4520-a89f-06b6a6baefa4.png" width="10px" height="10px"/>
- Express.js
+ <ul>
+   <li>
+      Express.js
+   </li>
+     <li>
+      React
+   </li>
+     <li>
+      Node.js
+   </li>
+     <li>
+      Firebase
+   </li>
+     </li>
+     <li>
+      MongoDB
+   </li>
+  </ul>
 
- React
 
- Node.js
+ 
 
- Firebase
+
+
+ 
 
 
 
