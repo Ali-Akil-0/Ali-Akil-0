@@ -4,7 +4,7 @@
 <br/>
 <h2>Hi there !!</h2> <span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3></span>
 
-<h1>I'm Ali Akil</h1>
+<h1>I'm Ali </h1>
 <br/>
 <div>
   <p>
