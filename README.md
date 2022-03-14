@@ -1,7 +1,5 @@
 ### Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
 <br/>
-![AKil ALi Cover](https://user-images.githubusercontent.com/71938087/158254422-90d114b9-2857-4a97-ac0c-2d3c80216a28.jpg)
-
 <img  src="https://user-images.githubusercontent.com/71938087/158254422-90d114b9-2857-4a97-ac0c-2d3c80216a28.jpg" alt='testingImage'/>
 <h1>I'm Ali Akil</h1>
 <br/>
