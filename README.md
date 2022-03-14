@@ -24,7 +24,7 @@ In building JavaScript applications, I'm equipped with just the right tools, and
 
 Here are a few technologies I’ve been working with recently:
   
-<img src="(https://user-images.githubusercontent.com/71938087/158257260-50a208f6-b843-4520-a89f-06b6a6baefa4.png"/>
+<img src="(https://user-images.githubusercontent.com/71938087/158257260-50a208f6-b843-4520-a89f-06b6a6baefa4.png" width="20px"/>
  Express.js
 
  React
