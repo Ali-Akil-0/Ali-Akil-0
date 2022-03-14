@@ -18,7 +18,7 @@ In building JavaScript applications, I'm equipped with just the right tools, and
 
 
 Here are a few technologies I’ve been working with recently:
-    <img src='https://cdn.freelogovectors.net/wp-content/uploads/2022/01/express-logo-freelogovectors.net_.png' alt='express'/>
+    <img src='https://cdn.freelogovectors.net/wp-content/uploads/2022/01/express-logo-freelogovectors.net_.png'  width="20px"/>
 
  Express.js
 
