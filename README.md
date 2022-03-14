@@ -5,8 +5,6 @@
 
 <h2>Hi there !!</h2> <span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3></span>
 
-<h1>I'm Ali </h1>
-<br/>
 <div>
   <p>
   Hello! My name is Ali and I enjoy creating things that live on the internet. My interest in web development started back in high school when I used to spend my days making hover animations for fun — turns out those animations taught me a lot about HTML, CSS & JS!
