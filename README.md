@@ -18,6 +18,7 @@ In building JavaScript applications, I'm equipped with just the right tools, and
 
 
 Here are a few technologies I’ve been working with recently:
+    <img src='https://expressjs.com/images/express-facebook-share.png' alt='express'/>
 
  Express.js
 
